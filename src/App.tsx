@@ -1,5 +1,4 @@
-import React from 'react';
-import { MessageCircle, Clock, CheckCircle, Shield, Zap, Brain, Image, Mic, Database, Calendar } from 'lucide-react';
+import { Clock, CheckCircle, Shield, Zap, Brain } from 'lucide-react';
 
 const ApresentacaoCliente = () => {
   return (
